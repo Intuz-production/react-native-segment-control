@@ -1,0 +1,3 @@
+rootProject.name = 'INTSegmentControl'
+
+include ':app'
