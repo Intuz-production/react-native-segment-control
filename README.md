@@ -74,7 +74,7 @@ var arrSegmentText =  ['iOS','Android','React','React Native','Facebook', 'Googl
         selectionStyle = 'stripe'// box || stripe
         stripeColor = '#ffffff70'
         stripHeight = {4}
-        onSelectionDidChange = {(selectedIndex) => {console.log('Selected Index ========' +  selectedIndex)}}
+        onSelectionDidChange = {(selectedIndex) => {console.log('Selected Index ===' +  selectedIndex)}}
         />
 ```
 <br>
