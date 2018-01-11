@@ -1,20 +1,20 @@
-**<h1>Introduction</h1>**
+<h1>Introduction</h1>
 
 INTUZ is presenting an interesting Segment Control to integrate inside your React Native based application. This component is an alternative of “SegmentedControlIOS” and providing extensive support for both Android and iOS platforms. Please follow below steps to integrate this control in your next project.
 
 <br>
-**<h1>Features</h1>**
-* Segment view Text Only
-* Segment view with Image and Text
-* Pass text array and/or array of json object (Need to pass titleDisplayKey when use the json object for segment.)
-* Segment with Horizontal scrolling
-* Customize segment with your own style for Title (with selected and non selected options)
-* Support for handling two different images- selected and non selected
+<h1>Features</h1>
+- Segment view Text Only
+- Segment view with Image and Text
+- Pass text array and/or array of json object (Need to pass titleDisplayKey when use the json object for segment.)
+- Segment with Horizontal scrolling
+- Customize segment with your own style for Title (with selected and non selected options)
+- Support for handling two different images- selected and non selected
 
 <br>
 <img src="Screenshots/segmentgif.gif" width=500 alt="Screenshots/screenShot.jpeg">
 
-**<h1>Getting Started</h1>**
+<h1>Getting Started</h1>
 
 > Import INTSegmentControl in your .js file
 
@@ -77,7 +77,7 @@ var arrSegmentText =  ['iOS','Android','React','React Native','Facebook', 'Googl
         />
 ```
 <br>
-**<h1>Properties</h1>**
+<h1>Properties</h1>
 
 | Available properties 	| Type 	| Default Value 	| Required 	| Description 	|
 |--------------------------	|-----------------------------------	|--------------------------------------------	|----------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -100,12 +100,12 @@ var arrSegmentText =  ['iOS','Android','React','React Native','Facebook', 'Googl
 | stripeHeight 	| Number 	| 3 	| No 	| Selection indicator height, Apply only when selectionStyle is stripe 	|
 | onSelectionDidChange 	| Function 	| - 	| No 	| Callback function when segment did change selection index 	|
 <br>
-**<h1>Bugs and Feedback</h1>**
+<h1>Bugs and Feedback</h1>
 
 For bugs, questions and discussions please use the Github Issues.
 
 <br>
-**<h1>License</h1>**
+<h1>License</h1>
 
 Copyright (c) 2018 Intuz Solutions Pvt Ltd.
 <br><br>
@@ -113,8 +113,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 <br><br>
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**<h1></h1>**
-**<h1></h1>**
+<h1></h1>
 <a href="http://www.intuz.com">
 <img src="Screenshots/logo.jpg">
 </a>
