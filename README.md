@@ -4,8 +4,9 @@ INTUZ is presenting an interesting Segment Control to integrate inside your Reac
 
 <br>
 <h1>Features</h1>
-- Segment view Text Only
-- Segment view with Image and Text
+
+- Segment view Text Only 
+- Segment view with Image and Text 
 - Pass text array and/or array of json object (Need to pass titleDisplayKey when use the json object for segment.)
 - Segment with Horizontal scrolling
 - Customize segment with your own style for Title (with selected and non selected options)
